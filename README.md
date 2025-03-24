@@ -1,5 +1,5 @@
 # 杂技演员的自我介绍
-![img_3.png](img_3.png)
+![img/img2](img/img2)
 
 “麦克莫顿形象”
 
